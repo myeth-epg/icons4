@@ -1,4 +1,5 @@
 [
+  "f1.png",
 "dreamworks.png"
 "c0001.png",
 "c0002.png",
