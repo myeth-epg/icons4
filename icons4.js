@@ -5,7 +5,7 @@
 "c0002.png",
 "c0003.png",
 "c0004.png",
-"c0005.png",
+"cctv5.png",
 "c0005+.png",
 "c0006.png",
 "c0007.png",
