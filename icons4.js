@@ -137,6 +137,7 @@
 "ub004.png",
 "ub005.png",
 "ub006.png",
+"ub007.png",
 "ub008.png",
 "ub009.png",
 "ub010.png",
